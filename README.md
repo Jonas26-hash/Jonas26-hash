@@ -7,7 +7,7 @@
 
 📍 Ubicación: [Lima - Perú]  
 
-## 🔥 Habilidades Técnicas  
+## 🔥 Habilidades Técnicas  (En proceso)
 - Frontend: HTML, CSS, JavaScript 
 - Backend: Python  
 - Bases de datos: Oracle, MySQL  
