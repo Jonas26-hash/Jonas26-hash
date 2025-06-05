@@ -1,6 +1,7 @@
 # ⫸Hola, Soy Jonás Chávez 💻🔥
 
-![Logo](https://github.com/user-attachments/assets/7ad4b70b-ac75-48ec-9022-7619447919f0)
+![Portada logo](https://github.com/user-attachments/assets/06055543-feb0-488e-987f-3f20cbf87b3a)
+
 
 **Estudiante de ingenieria de sistemas | Apasionado por la tecnología**  
 
