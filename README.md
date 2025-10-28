@@ -9,8 +9,8 @@
 
 ## 🔥 Habilidades Técnicas  (En proceso)
 - Frontend: HTML, CSS, JavaScript 
-- Backend: Python  
-- Bases de datos: Oracle, MySQL  
+- Backend: Python, Java
+- Bases de datos: Oracle, PostgreSQL  
 
 ## 📚 Proyectos Destacados  
 - [Proyecto 1](https://jonas26-hash.github.io/Pagina-Web/) - Mini Tienda Virtual  
