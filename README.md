@@ -3,7 +3,7 @@
 ![Portada logo](https://github.com/user-attachments/assets/06055543-feb0-488e-987f-3f20cbf87b3a)
 
 
-**Estudiante de ingenieria de sistemas | Apasionado por la tecnología**  
+**Estudiante de ingenieria de sistemas | Desarrolador**  
 
 📍 Ubicación: [Lima - Perú]  
 
